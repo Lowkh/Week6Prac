@@ -14,6 +14,8 @@ while totalPushup < targetNumber:
 
 print(f'You did a total of {totalPushup} pushups')
 print(f'You hit your target in {i} days!')   
+
+
     
 '''    
 while True:
